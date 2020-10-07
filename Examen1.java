@@ -20,7 +20,7 @@ public class Examen1 {
         System.out.println("El perimetro es: "+area[i]);
     }*/ 
         System.out.println("hola, prueba");
-        
+        System.out.println("Adios");
         }
     }
     
