@@ -1,8 +1,7 @@
 package examenes;
-import java.util.Scanner;
 public class Examen1 {
     public static void main(String[] args) {
-        int i;
+        /*int i;
         float[] lado = new float [5];
         float[] apotema = new float [5];
         double[] perimetro = new double [5];
@@ -19,7 +18,9 @@ public class Examen1 {
         area[i]=(perimetro[i]*apotema[i])/2;
         System.out.println("El perimetro es: "+perimetro[i]);
         System.out.println("El perimetro es: "+area[i]);
-    }
+    }*/ 
+        System.out.println("hola, prueba");
+        
         }
     }
     
